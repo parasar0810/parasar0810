@@ -1,6 +1,5 @@
-::: {align="center"}
 
-Hi 👋, I'm Priyanshu Parasar
+Hi , I'm Priyanshu Parasar
 
 AI/ML Engineer • Backend Developer • Computer Science Student
 
